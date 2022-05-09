@@ -491,4 +491,14 @@
     "@id" : "https://ia600904.us.archive.org/BookReader/BookReaderPreview.php?id=lefortificationi00lori&subPrefix=lefortificationi00lori&itemPath=/30/items/lefortificationi00lori&server=ia600904.us.archive.org&page=preview&"
   },
   "viewingHint" : "paged"
+  "structures": [
+{
+"@id": "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas",
+"@type": "sc:Range",
+"label": "Section",
+"canvases": [
+"https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas"
+],
+},
+]
 }
