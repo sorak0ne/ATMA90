@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://sorak0ne.github.io/ATMA90/manifests/manifest.json",
-    "label" : "Le fortificationi di Buonaiuto Lorini, nobile fiorentino ... : con l'aggiunta del sesto libro doue si mostra, con la scienza e con la pratica, l'ordine di fortificare le città & altri luoghi, con tutti gli auuertimenti, che più possono apportar benficio per la sicurtà delle fortezze .."
-  } ]
+  "items" : [ ]
 }
