@@ -59,16 +59,6 @@
       } ],
       "label" : "p. ",
       "width" : 2756,
-      "seeAlso" : [ {
-        "@id" : "https://api.bl.uk/text/alto/ark:/81055/vdc_00000004216B.0x000001",
-        "format" : "application/xml",
-        "label" : "ALTO XML",
-        "profile" : "https://www.loc.gov/standards/alto/"
-      }, {
-        "@id" : "https://api.bl.uk/text/plain/ark:/81055/vdc_00000004216B.0x000001",
-        "format" : "text/plain",
-        "label" : "Plain text OCR"
-      } ]
     }, {
       "@context" : "http://iiif.io/api/presentation/2/context.json",
       "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$1/canvas",
@@ -481,4 +471,15 @@
     "@id" : "https://ia600904.us.archive.org/BookReader/BookReaderPreview.php?id=lefortificationi00lori&subPrefix=lefortificationi00lori&itemPath=/30/items/lefortificationi00lori&server=ia600904.us.archive.org&page=preview&"
   },
   "viewingHint" : "paged"
+  "structures": [
+{
+"@id": "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas",
+"@type": "sc:Range",
+"label": "Section",
+"canvases": [
+"https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas"
+],
+},
+
+]
 }
