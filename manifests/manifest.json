@@ -1,0 +1,494 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sorak0ne.github.io/ATMA90/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "attribution" : "The Internet Archive",
+  "cover" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$4",
+  "description" : "Book six has separate t.p. Title: Delle fortificationi di Bvonaiuto Lorini, nobile fiorentino, libro sesto. Woodcut t.p. vignette (cannon). Engraved port. of Lorini by W. Kilian, leaf a6v. Numerous in-text ill., some full-page. Rampazetto's device on colophon. Decorated woodcut initials, some historiated. Signatures: a A B² C D² E F-H² I K L M-P Q R S T-2A 2B. 57-60 omitted in paging. Includes index. Binding: old limp vellum. Centered on front pastedown of Getty copy is Giovanni Muzio's etched bookplate by Giacomo Manzù",
+  "label" : "Le fortificationi di Buonaiuto Lorini, nobile fiorentino ... : con l'aggiunta del sesto libro doue si mostra, con la scienza e con la pratica, l'ordine di fortificare le città & altri luoghi, con tutti gli auuertimenti, che più possono apportar benficio per la sicurtà delle fortezze ..",
+  "logo" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata" : [ {
+    "label" : "title",
+    "value" : "Le fortificationi di Buonaiuto Lorini, nobile fiorentino ... : con l'aggiunta del sesto libro doue si mostra, con la scienza e con la pratica, l'ordine di fortificare le città & altri luoghi, con tutti gli auuertimenti, che più possono apportar benficio per la sicurtà delle fortezze .."
+  }, {
+    "label" : "publisher",
+    "value" : "In Venetia : Presso Francesco Rampazetto"
+  }, {
+    "label" : "subject",
+    "value" : "Fortification"
+  }, {
+    "label" : "date",
+    "value" : "1609"
+  }, {
+    "label" : "contributor",
+    "value" : "Getty Research Institute"
+  }, {
+    "label" : "creator",
+    "value" : "Lorini, Buonaiuto, fl. 1600. Kilian, Wolfgang, 1581-1662"
+  } ],
+  "related" : "http://www.archive.org/details/lefortificationi00lori",
+  "seeAlso" : "http://archive.org/metadata/lefortificationi00lori",
+  "sequences" : [ {
+    "@context" : "http://iiif.io/api/image/2/context.json",
+    "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori/canvas/default",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$0/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 4101,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$0/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$0/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$0/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 4101,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$0",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2756
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2756,
+      "seeAlso" : [ {
+        "@id" : "https://api.bl.uk/text/alto/ark:/81055/vdc_00000004216B.0x000001",
+        "format" : "application/xml",
+        "label" : "ALTO XML",
+        "profile" : "https://www.loc.gov/standards/alto/"
+      }, {
+        "@id" : "https://api.bl.uk/text/plain/ark:/81055/vdc_00000004216B.0x000001",
+        "format" : "text/plain",
+        "label" : "Plain text OCR"
+      } ]
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$1/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$1/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$1/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$1",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508,
+      "seeAlso" : [ {
+        "@id" : "https://api.bl.uk/text/alto/ark:/81055/vdc_00000004216B.0x0000020",
+        "format" : "application/xml",
+        "label" : "ALTO XML",
+        "profile" : "https://www.loc.gov/standards/alto/"
+      }, {
+        "@id" : "https://api.bl.uk/text/plain/ark:/81055/vdc_00000004216B.0x0000020",
+        "format" : "text/plain",
+        "label" : "Plain text OCR"
+      } ]
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$2/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$2/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$2/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$2",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$3/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$3/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$3/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$3",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$4/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$4/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$4/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$4",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$5/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$5/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$5/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$5",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$6/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$6/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$6/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$6",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$7/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$7/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$7/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$7",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$8/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$8/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$8/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$8",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$9/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$9/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$9/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$9",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$10/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$10/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$10/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$10",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$11/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$11/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$11/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$11/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$11",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$12/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$12/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$12/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$12/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$12",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$13/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$13/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$13/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$13/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$13",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$14/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$14/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$14/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$14/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$14",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    }, {
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas",
+      "@type" : "sc:Canvas",
+      "description" : "",
+      "height" : 3992,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/image/2/context.json",
+        "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/annotation",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/annotation",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 3992,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lefortificationi00lori$15",
+            "profile" : "https://iiif.io/api/image/2/profiles/level2.json"
+          },
+          "width" : 2508
+        }
+      } ],
+      "label" : "p. ",
+      "width" : 2508
+    } ],
+    "label" : "default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://ia600904.us.archive.org/BookReader/BookReaderPreview.php?id=lefortificationi00lori&subPrefix=lefortificationi00lori&itemPath=/30/items/lefortificationi00lori&server=ia600904.us.archive.org&page=preview&"
+  },
+  "viewingHint" : "paged"
+}
