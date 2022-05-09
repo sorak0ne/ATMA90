@@ -472,8 +472,6 @@
   },
   "viewingHint" : "paged"
 
-
-]
    "structures": [
 {
 "@id": "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas",
@@ -483,4 +481,5 @@
 "https://iiif.archivelab.org/iiif/lefortificationi00lori$15/canvas"
 ],
 },
+]
 }
